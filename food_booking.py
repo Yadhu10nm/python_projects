@@ -181,7 +181,7 @@ def main():
                      print("invalid entry...!")
                clear()
 
-    users = {"yadhu": 123, "ammu": 123}
+    users = {"..your_name..": "password", "....": "...."}
     try:
        name = input("enter your name :")
        pass_ = int(input("enter the password : "))
